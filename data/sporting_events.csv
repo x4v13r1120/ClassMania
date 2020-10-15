@@ -1,0 +1,8 @@
+event_id;team;date;location;type;ticket_price
+123499;Sox;2/12/2020;Chicago, IL;baseball;28.38
+123500;Mets;3/12/2020;New York, NY;baseball;42.12
+123501;Rangers;2/12/2020;Dallas, TX;baseball;22.37
+523705;Manchester United;5/12/2020;Manchester, UK;soccer;59.27
+523706;Real Madrid;2/12/2020;Madrid, SP;soccer;68.11
+958261;Bulls;8/8/2020;Chicago, IL;basketball;67.20
+758262;Canucks;11/09/2020;Vancover, CAN;hockey;27.75
